@@ -11,4 +11,7 @@ package mx.jarc.controller;
  */
 public class CustomerController {
     
+    public void getAllClient(){
+        System.out.println("Todos los clientes");
+    }
 }
